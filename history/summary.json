@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 279,
-    "timeWeek": 289,
+    "timeDay": 289,
+    "timeWeek": 288,
     "timeMonth": 298,
     "timeYear": 309,
-    "dailyMinutesDown": {
-      "2025-03-26": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personal Web",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 249,
+    "timeDay": 246,
     "timeWeek": 277,
     "timeMonth": 305,
     "timeYear": 306,
